@@ -44,7 +44,7 @@ $ pip install mechanize
 
 $ pip install bs4
 
-$ pip install pycryptodome
+$ pip install play-audio
 
 $ git clone https://github.com/LuciverXploit/Luciana
 
