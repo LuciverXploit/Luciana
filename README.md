@@ -44,7 +44,7 @@ $ pip install mechanize
 
 $ pip install bs4
 
-$ pip install play-audio
+$ pkg install play-audio
 
 $ git clone https://github.com/LuciverXploit/Luciana
 
